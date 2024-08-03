@@ -18,5 +18,7 @@
             this.Yayinevi = yayinevi;
             this.OduncAlindiMi = oduncAlindiMi;
         }
+
+
     }
 }
